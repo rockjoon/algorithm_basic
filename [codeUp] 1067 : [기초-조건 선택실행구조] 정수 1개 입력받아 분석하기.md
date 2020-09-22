@@ -35,7 +35,7 @@
 ---
 ### 출력 예시
 
-minus
+minus   
 even
 
 ---
